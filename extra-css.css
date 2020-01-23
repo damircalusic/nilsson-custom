@@ -1,0 +1,44 @@
+.archive .entry .post-thumbnail .post-thumbnail-inner img{ 
+  width:auto; 
+  float:left; 
+  margin-right:3rem; 
+  margin-bottom:32px;
+}
+.archive .entry .entry-content p{
+	margin-top:0;
+}
+.site-header{
+	padding:3rem 0 0 0;
+}
+.site-description{
+	font-size:0.85rem;
+}
+#breadcrumbs {
+  margin:0.4rem calc(10% + 60px) calc(2 * 1rem);
+	font-size:0.8rem;
+}
+.home #breadcrumbs{
+	display:none;
+}
+.entry-title, .not-found .page-title, .error-404 .page-title, .has-larger-font-size, h2{
+	font-size:1.2rem;
+}
+.archive .entry .entry-content p{
+	line-height:1.5;
+}
+.entry .entry-content .has-normal-font-size{
+	/*font-size:0.8rem;*/
+	line-height:1.5;
+}
+/*.wp-block-cover__inner-container a{
+  margin:1rem auto 0;
+	width:100%;
+	max-width:150px;
+	background: #FFF;
+  color: #000;
+  text-decoration: none;
+  padding:2px 10px;
+  font-size:0.7rem;
+  display:block;
+  clear:both;
+}*/
