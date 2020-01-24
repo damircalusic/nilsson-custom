@@ -11,6 +11,10 @@
 .home #breadcrumbs{
 	display:none;
 }
+.page-title .wp-block-quote{
+	margin:1rem 0 1rem;
+	font-size:1rem;
+}
 .archive .entry .post-thumbnail .post-thumbnail-inner img{ 
 	width:auto; 
 	max-width:300px;
